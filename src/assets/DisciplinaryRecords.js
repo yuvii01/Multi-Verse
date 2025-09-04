@@ -1,0 +1,32 @@
+export const dummyDisciplinaryrecords = [
+  {
+    id: "D001",
+    studentName: "Ravi Kumar",
+    studentId: "STU123",
+    classLevel: "10",
+    violation: "Fighting with classmate",
+    date: "2025-07-20",
+    actionTaken: "Warning issued",
+    status: "Resolved",
+  },
+  {
+    id: "D002",
+    studentName: "Sneha Sharma",
+    studentId: "STU124",
+    classLevel: "9",
+    violation: "Mobile phone usage during class",
+    date: "2025-07-22",
+    actionTaken: "Phone confiscated",
+    status: "Pending",
+  },
+  {
+    id: "D003",
+    studentName: "Amit Verma",
+    studentId: "STU125",
+    classLevel: "8",
+    violation: "Disrespecting teacher",
+    date: "2025-07-19",
+    actionTaken: "Parents called",
+    status: "Resolved",
+  },
+];
